@@ -1,9 +1,9 @@
 {
-    "name": "Octo Organization Workflow",
-    "description": "Octo Organization CI starter workflow.",
+    "name": "Automated Developer Documentation Workflow",
+    "description": "Internal Developer Documentation",
     "iconName": "rocket",
     "categories": [
-        "Go"
+        "Documentation"
     ],
     "filePatterns": [
         "package.json$",
