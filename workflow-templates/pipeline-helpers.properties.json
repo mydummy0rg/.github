@@ -1,0 +1,8 @@
+{
+    "name": "Pipeline helper",
+    "description": "Pipeline helper description",
+    "iconName": "rocket",
+    "categories": [
+        "Pipeline"
+    ]
+}
