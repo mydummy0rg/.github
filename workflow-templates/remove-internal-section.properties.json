@@ -1,0 +1,8 @@
+{
+    "name": "Remove internal section(s)",
+    "description": "Removes all internal sections from files (e.g. README.md) which are enclosed between <!-- begin internal --> and <!-- end internal -->",
+    "iconName": "rocket",
+    "categories": [
+        "Pipeline"
+    ]
+}
